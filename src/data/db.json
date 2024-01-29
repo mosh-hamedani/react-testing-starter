@@ -1,0 +1,396 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Electronics"
+    },
+    {
+      "id": 2,
+      "name": "Appliances"
+    },
+    {
+      "id": 3,
+      "name": "Accessories"
+    }
+  ],
+  "products": [
+    {
+      "id": 1,
+      "name": "Refined Concrete Soap",
+      "price": 799,
+      "categoryId": 1
+    },
+    {
+      "id": 2,
+      "name": "Smartphone",
+      "price": 499,
+      "categoryId": 1
+    },
+    {
+      "id": 3,
+      "name": "Headphones",
+      "price": 149,
+      "categoryId": 1
+    },
+    {
+      "id": 4,
+      "name": "Tablet",
+      "price": 349,
+      "categoryId": 1
+    },
+    {
+      "id": 5,
+      "name": "Smartwatch",
+      "price": 199,
+      "categoryId": 1
+    },
+    {
+      "id": 6,
+      "name": "Camera",
+      "price": 699,
+      "categoryId": 1
+    },
+    {
+      "id": 7,
+      "name": "Gaming Console",
+      "price": 299,
+      "categoryId": 1
+    },
+    {
+      "id": 8,
+      "name": "Bluetooth Speaker",
+      "price": 79,
+      "categoryId": 1
+    },
+    {
+      "id": 9,
+      "name": "Monitor",
+      "price": 249,
+      "categoryId": 1
+    },
+    {
+      "id": 10,
+      "name": "Keyboard",
+      "price": 49,
+      "categoryId": 1
+    },
+    {
+      "id": 11,
+      "name": "Wireless Earbuds",
+      "price": 129,
+      "categoryId": 1
+    },
+    {
+      "id": 12,
+      "name": "Fitness Tracker",
+      "price": 79,
+      "categoryId": 1
+    },
+    {
+      "id": 13,
+      "name": "External Hard Drive",
+      "price": 149,
+      "categoryId": 1
+    },
+    {
+      "id": 14,
+      "name": "Coffee Maker",
+      "price": 59,
+      "categoryId": 2
+    },
+    {
+      "id": 15,
+      "name": "Robot Vacuum Cleaner",
+      "price": 299,
+      "categoryId": 2
+    },
+    {
+      "id": 16,
+      "name": "Electric Toothbrush",
+      "price": 39,
+      "categoryId": 2
+    },
+    {
+      "id": 17,
+      "name": "Wireless Router",
+      "price": 89,
+      "categoryId": 1
+    },
+    {
+      "id": 18,
+      "name": "Bluetooth Headset",
+      "price": 59,
+      "categoryId": 1
+    },
+    {
+      "id": 19,
+      "name": "Printer",
+      "price": 199,
+      "categoryId": 1
+    },
+    {
+      "id": 20,
+      "name": "Desk Chair",
+      "price": 149,
+      "categoryId": 2
+    },
+    {
+      "id": 21,
+      "name": "Wireless Mouse",
+      "price": 29,
+      "categoryId": 1
+    },
+    {
+      "id": 22,
+      "name": "Bluetooth Keyboard",
+      "price": 49,
+      "categoryId": 1
+    },
+    {
+      "id": 23,
+      "name": "External SSD Drive",
+      "price": 179,
+      "categoryId": 1
+    },
+    {
+      "id": 24,
+      "name": "Smart TV",
+      "price": 499,
+      "categoryId": 1
+    },
+    {
+      "id": 25,
+      "name": "Air Purifier",
+      "price": 149,
+      "categoryId": 2
+    },
+    {
+      "id": 26,
+      "name": "Gaming Mouse",
+      "price": 69,
+      "categoryId": 1
+    },
+    {
+      "id": 27,
+      "name": "Wireless Charger",
+      "price": 39,
+      "categoryId": 1
+    },
+    {
+      "id": 28,
+      "name": "Desk Lamp",
+      "price": 29,
+      "categoryId": 2
+    },
+    {
+      "id": 29,
+      "name": "Bluetooth Speaker",
+      "price": 79,
+      "categoryId": 1
+    },
+    {
+      "id": 30,
+      "name": "Coffee Grinder",
+      "price": 39,
+      "categoryId": 2
+    },
+    {
+      "id": 31,
+      "name": "Product 1",
+      "price": 11,
+      "categoryId": 3
+    },
+    {
+      "name": "Product 1",
+      "price": 10,
+      "categoryId": 1,
+      "id": 32
+    },
+    {
+      "name": "New Product",
+      "price": 10,
+      "categoryId": 1,
+      "id": 33
+    },
+    {
+      "name": "Product 1",
+      "price": 10,
+      "categoryId": 1,
+      "id": 34
+    },
+    {
+      "name": "Product 1",
+      "price": 10,
+      "categoryId": 1,
+      "id": 35
+    },
+    {
+      "name": "Rustic Bronze Tuna",
+      "price": 10,
+      "categoryId": 1,
+      "id": 36
+    },
+    {
+      "name": "Sleek Concrete Gloves",
+      "price": 10,
+      "categoryId": 1,
+      "id": 37
+    },
+    {
+      "name": "Ergonomic Bronze Car",
+      "price": 10,
+      "categoryId": 1,
+      "id": 38
+    },
+    {
+      "name": "Handmade Soft Gloves",
+      "price": 10,
+      "categoryId": 1,
+      "id": 39
+    },
+    {
+      "name": "Licensed Frozen Computer",
+      "price": 10,
+      "categoryId": 1,
+      "id": 40
+    },
+    {
+      "name": "Elegant Rubber Bike",
+      "price": 10,
+      "categoryId": 1,
+      "id": 41
+    },
+    {
+      "name": "Handcrafted Wooden Cheese",
+      "price": 10,
+      "categoryId": 1,
+      "id": 42
+    },
+    {
+      "name": "Handcrafted Wooden Hat",
+      "price": 10,
+      "categoryId": 1,
+      "id": 43
+    },
+    {
+      "name": "Handcrafted Plastic Pants",
+      "price": 10,
+      "categoryId": 1,
+      "id": 44
+    },
+    {
+      "name": "Intelligent Soft Sausages",
+      "price": 10,
+      "categoryId": 1,
+      "id": 45
+    },
+    {
+      "name": "Modern Metal Ball",
+      "price": 10,
+      "categoryId": 1,
+      "id": 46
+    },
+    {
+      "name": "Practical Rubber Sausages",
+      "price": 10,
+      "categoryId": 1,
+      "id": 47
+    },
+    {
+      "name": "Recycled Steel Pants",
+      "price": 10,
+      "categoryId": 1,
+      "id": 48
+    },
+    {
+      "name": "Ergonomic Cotton Soap",
+      "price": 10,
+      "categoryId": 1,
+      "id": 49
+    },
+    {
+      "name": "Handcrafted Frozen Hat",
+      "price": 10,
+      "categoryId": 1,
+      "id": 50
+    },
+    {
+      "name": "Generic Wooden Car",
+      "price": 10,
+      "categoryId": 1,
+      "id": 51
+    },
+    {
+      "name": "Ergonomic Fresh Bike",
+      "price": 10,
+      "categoryId": 1,
+      "id": 52
+    },
+    {
+      "name": "Elegant Cotton Pizza",
+      "price": 10,
+      "categoryId": 1,
+      "id": 53
+    },
+    {
+      "name": "Bespoke Rubber Mouse",
+      "price": 10,
+      "categoryId": 1,
+      "id": 54
+    },
+    {
+      "name": "Intelligent Fresh Shoes",
+      "price": 10,
+      "categoryId": 1,
+      "id": 55
+    },
+    {
+      "name": "Oriental Metal Chips",
+      "price": 10,
+      "categoryId": 1,
+      "id": 56
+    },
+    {
+      "name": "Generic Steel Chicken",
+      "price": 10,
+      "categoryId": 1,
+      "id": 57
+    },
+    {
+      "name": "Luxurious Frozen Towels",
+      "price": 10,
+      "categoryId": 1,
+      "id": 58
+    },
+    {
+      "name": "Generic Metal Shoes",
+      "price": 10,
+      "categoryId": 1,
+      "id": 59
+    },
+    {
+      "name": "Practical Fresh Gloves",
+      "price": 10,
+      "categoryId": 1,
+      "id": 60
+    },
+    {
+      "name": "Licensed Bronze Chair",
+      "price": 10,
+      "categoryId": 1,
+      "id": 61
+    },
+    {
+      "name": "Licensed Bronze Keyboard",
+      "price": 10,
+      "categoryId": 1,
+      "id": 62
+    },
+    {
+      "name": "Electronic Frozen Keyboard",
+      "price": 10,
+      "categoryId": 1,
+      "id": 63
+    }
+  ]
+}
