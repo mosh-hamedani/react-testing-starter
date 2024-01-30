@@ -61,6 +61,7 @@ npm install
 
 # Start the development server
 npm start
+```
 
 This will start the back-end process at `http://localhost:3000`. If port 3000 is in use on your machine, update the port number in the following files and run `npm start` again: 
 
